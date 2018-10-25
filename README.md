@@ -1,3 +1,3 @@
-### Great modular landing page with 0 dependencies and easy installation.
+### Great modular, scalable landing page with 0 dependencies and a small bundle.
 
-# [Demo](https://github.com/facebook/create-react-app/issues/1164)
+# [Demo](https://anton.pizza)
