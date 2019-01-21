@@ -6,7 +6,6 @@
   height: 100vh;
   align-content: center;
   justify-content: center;
-  background-color: black;
 }
 
 img {
@@ -14,6 +13,7 @@ img {
   justify-self: center;
   width: 100%;
   max-height: 100vh;
+  opacity: 0.7;
 }
 
 span {
@@ -21,5 +21,4 @@ span {
   justify-self: center;
   font-size: 100px;
   position: relative;
-  color: white;
 }
