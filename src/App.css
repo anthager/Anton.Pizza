@@ -11,9 +11,27 @@
 img {
   align-self: center;
   justify-self: center;
-  width: 100%;
-  max-height: 100vh;
+  max-width: 100%;
+  max-height: 80vh;
   opacity: 0.7;
+}
+
+.anton {
+  animation: spin 2000s infinite linear;
+}
+
+.pizza {
+  animation: spin 1500s infinite linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+    
+  }
 }
 
 span {
